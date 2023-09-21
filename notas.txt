@@ -1,0 +1,14 @@
+rafce
+
+Hooks - Funciones propias de react que permiten trabajar con funcionalidades especiales (DOM React)
+    estado  => useState
+    efecto  => useEffect
+    contexto  => useContext
+
+estado  
+    estado en cambio
+    estado por defecto
+
+Programación Asíncrona
+    callbacks
+    Promesas
